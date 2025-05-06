@@ -1,0 +1,36 @@
+{
+  "name": "Web Fix Hub",
+  "short_name": "webfixhub",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF4E5B",
+  "description": "Personal Marketing Website.",
+  "icons": [
+    {
+      "src": "https://goly.link/melogo.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://goly.link/melogo.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://goly.link/melogo.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://goly.link/melogo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://goly.link/melogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

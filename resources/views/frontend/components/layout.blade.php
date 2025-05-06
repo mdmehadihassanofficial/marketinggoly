@@ -1,0 +1,6 @@
+@include('frontend.components.header')
+@include('frontend.components.topbar')
+@include('frontend.components.sidebar')
+@yield('content')
+@include('frontend.components.pushNotification')
+@include('frontend.components.footer')
